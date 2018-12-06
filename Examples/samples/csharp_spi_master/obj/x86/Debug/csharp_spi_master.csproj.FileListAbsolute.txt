@@ -1,0 +1,9 @@
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\bin\Debug\csharp_spi_master.exe
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\bin\Debug\csharp_spi_master.pdb
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\bin\Debug\FTD2XX_NET.dll
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\bin\Debug\FTD2XX_NET.xml
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\obj\x86\Debug\csharp_spi_master.csprojAssemblyReference.cache
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\obj\x86\Debug\csharp_spi_master.csproj.CoreCompileInputs.cache
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\obj\x86\Debug\csharp_spi_master.csproj.CopyComplete
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\obj\x86\Debug\csharp_spi_master.exe
+C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\csharp_spi_master\obj\x86\Debug\csharp_spi_master.pdb

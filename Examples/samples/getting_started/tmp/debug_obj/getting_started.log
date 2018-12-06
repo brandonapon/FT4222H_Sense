@@ -1,0 +1,5 @@
+﻿  getting_started.cpp
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\getting_started\getting_started.cpp(70): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'FT_HANDLE'
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\getting_started\getting_started.cpp(84): warning C4100: 'argv': unreferenced formal parameter
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\getting_started\getting_started.cpp(84): warning C4100: 'argc': unreferenced formal parameter
+  getting_started.vcxproj -> C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\getting_started\debug\getting_started.exe

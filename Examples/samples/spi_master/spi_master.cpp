@@ -76,6 +76,16 @@ void ListFtUsbDevices()
 }
 
 //------------------------------------------------------------------------------
+// Booting Sequence
+//------------------------------------------------------------------------------
+
+//Request and import command file 
+
+
+//Request SPI Characteristics
+
+
+//------------------------------------------------------------------------------
 // main
 //------------------------------------------------------------------------------
 int main(int argc, char const *argv[])
@@ -103,13 +113,7 @@ int main(int argc, char const *argv[])
     {
         printf("Init FT4222 as SPI master device failed!\n");
         return 0;
-    }
-
-    // TODO:
-    //    Start to work as SPI master, and read/write data to a SPI slave
-    //    FT4222_SPIMaster_SingleWrite
-    //    FT4222_SPIMaster_SingleRead
-    //    FT4222_SPIMaster_SingleReadWrite
+    } 
 
 
     FT4222_UnInitialize(ftHandle);

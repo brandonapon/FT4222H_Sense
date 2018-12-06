@@ -117,7 +117,7 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies>..\..\imports\ftd2xx\i386\ftd2xx.lib;..\..\imports\LibFT4222\lib\LibFT4222.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>..\..\imports\ftd2xx\i386;..\..\imports\LibFT4222\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\..\imports\ftd2xx\i386;C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\imports\LibFT4222\lib;..\..\imports\LibFT4222\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>"/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" %(AdditionalOptions)</AdditionalOptions>
       <DataExecutionPrevention>true</DataExecutionPrevention>
       <GenerateDebugInformation>true</GenerateDebugInformation>

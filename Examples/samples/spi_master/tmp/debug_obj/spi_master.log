@@ -1,0 +1,5 @@
+﻿  spi_master.cpp
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\spi_master\spi_master.cpp(67): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'FT_HANDLE'
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\spi_master\spi_master.cpp(91): warning C4100: 'argv': unreferenced formal parameter
+c:\users\brand\source\repos\brandonapon\ft4222h_sense\examples\samples\spi_master\spi_master.cpp(91): warning C4100: 'argc': unreferenced formal parameter
+  spi_master.vcxproj -> C:\Users\brand\Source\Repos\brandonapon\FT4222H_Sense\Examples\samples\spi_master\debug\spi_master.exe
